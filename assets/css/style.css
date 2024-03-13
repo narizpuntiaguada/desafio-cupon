@@ -14,3 +14,13 @@
 .bg-cupon{
     background-color: #28A745;
 }
+.card-title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.card-body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
