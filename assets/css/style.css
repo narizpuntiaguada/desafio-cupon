@@ -1,26 +1,56 @@
-
-.navbar{
-   background-color: #28A745;
+.navbar {
+    background-color: #28A745;
 
 }
 
-.logo{
-        width: 86px;
+.logo {
+    width: 82px;
 }
-.texto-cupon{
+
+.texto-cupon {
     color: #28A745;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
 
 }
-.bg-cupon{
+
+.bg-cupon {
     background-color: #28A745;
 }
-.card-title{
+
+.card-title {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-style: normal;
+    color: #28A745;
 }
-.card-body{
+
+.card-body {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-style: normal;
+    color: #28A745;
+}
+
+.form-control{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+   
+}
+
+.btn{
+    border-radius: 50px;
+    color:#212529;
+    
+}
+
+.text-body-secundary{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color:#707070;
+    text-align: center;
+    font-size: 14pt;
 }
